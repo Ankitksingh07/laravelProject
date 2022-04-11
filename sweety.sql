@@ -161,7 +161,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `password`, `created_at`, `updated_at`) VALUES
-(1, 'ankit kumar ', 'ankitksingh1991@gmail.com', '$2y$10$WiCiSa7Z/I9kogLYmgEC9Oxu7z0Uo2tYUi2pxq58R2jH.npPq6w.S', NULL, NULL);
+(1, 'ankit ', 'ankitksingh1991@gmail.com', '$2y$10$WiCiSa7Z/I9kogLYmgEC9Oxu7z0Uo2tYUi2pxq58R2jH.npPq6w.S', NULL, NULL);
 --
 -- Indexes for dumped tables
 --
